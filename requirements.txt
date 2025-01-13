@@ -6,3 +6,5 @@ pandas
 requests
 scikit-learn
 seaborn
+jupyter
+nbconvert
