@@ -53,4 +53,24 @@ git clone https://github.com/MortalWombat-repo/Employee-churn-prediction.git
 ```
 cd Employee-churn-prediction
 ```
-
+3. start venv
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+4. install packages from requirements.txt
+```
+pip install -r requirements.txt
+```
+5. run train.py
+```
+python train.py
+```
+5. run predict.py to start the server
+```
+python predict.py
+```
+5. run predict-test.py to send a POST request to the server
+```
+python predict-test.py
+```
