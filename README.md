@@ -83,3 +83,8 @@ python predict-test.py
 deactivate
 rm -rf venv
 ```
+
+# Demo
+
+![Demonstration](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1aHEzYnhta2dlMzFzY3ludnE5d241NmJ2b3d4anJkZWNlbnI2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHRlTAVDFwiN516Xn2/giphy.gif)
+
