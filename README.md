@@ -66,11 +66,16 @@ pip install -r requirements.txt
 ```
 python train.py
 ```
-5. run predict.py to start the server
+6. run predict.py to start the server
 ```
 python predict.py
 ```
-5. run predict-test.py to send a POST request to the server
+7. run predict-test.py to send a POST request to the server
 ```
 python predict-test.py
+```
+8. deactivate and delete the venv
+```
+deactivate
+rm -rf venv
 ```
