@@ -1,10 +1,13 @@
 import os
 import subprocess
 
-# Path to the directory containing the notebooks
-notebook_dir = "./notebooks"
+# Get the absolute path of the root directory
+root_dir = os.path.dirname(os.path.abspath(__file__))
 
-# Get all notebook files and sort them alphabetically (sequential order based on numbering)
+# Path to the directory containing the notebooks
+notebook_dir = os.path.join(root_dir, "notebooks")
+
+# Get all notebook files and sort them alphabetically
 notebooks = sorted([f for f in os.listdir(notebook_dir) if f.endswith(".ipynb")])
 
 # Loop through each notebook in sequential order and execute it
