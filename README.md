@@ -62,19 +62,23 @@ source venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
-5. run train.py
+5. run all notebooks
+```
+python run_notebooks.py
+```
+6. run train.py
 ```
 python train.py
 ```
-6. run predict.py to start the server
+7. run predict.py to start the server
 ```
 python predict.py
 ```
-7. run predict-test.py to send a POST request to the server
+8. run predict-test.py to send a POST request to the server
 ```
 python predict-test.py
 ```
-8. deactivate and delete the venv
+9. deactivate and delete the venv
 ```
 deactivate
 rm -rf venv
