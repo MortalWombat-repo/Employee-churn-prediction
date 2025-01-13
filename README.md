@@ -40,4 +40,17 @@ The script `predict.py` uses Flask and gunicorn to serve the model on local host
 
 # Running the project
 
+**Important!**
+
+This project was developed on WSL(Windows subsystem for Linux)
+It is recommended if on Windows to install it using a [guide](https://www.howtogeek.com/744328/how-to-install-the-windows-subsystem-for-linux-on-windows-11/) or running it on UNIX/Linux environment.
+
+1. cd into your desired folder and download the project
+```
+git clone https://github.com/MortalWombat-repo/Employee-churn-prediction.git
+```
+2. cd into the folder
+```
+cd Employee-churn-prediction
+```
 
