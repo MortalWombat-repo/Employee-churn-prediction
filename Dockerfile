@@ -15,8 +15,12 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the Jupyter notebooks from the 'notebooks' folder to the container
 COPY notebooks/ ./notebooks/
 
+COPY employee_churn_data.csv .
+
+COPY run_notebooks.py .
+
 # Execute the Jupyter notebooks using nbconvert (to ensure preprocessing or data preparation is complete)
-RUN jupyter nbconvert --to notebook --execute --inplace notebooks/*.ipynb
+RUN python run_notebooks.py
 
 # Copy the training script to the container
 COPY train.py .
