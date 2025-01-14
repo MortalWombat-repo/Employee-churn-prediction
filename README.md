@@ -34,7 +34,7 @@ The data was first loaded into a Jupyter notebook `1. Data preparation and data 
 Next step was running the notebook `2. EDA, feature importance analysis`. In this notebooks certain visualizations were made to get a feel for the data to be worked with as well as feature importance analysis in form of viewing the correlations of features with each other as well as seing if any particular feature stood out.
 Finally a notebook `3. Model selection process` is ran to test the dummy models before they are converted to a script in form of a `train.py`.
 
-The script `train.py` incorporates the tested model and creates a model from vectorized data using Linear Regression from `scikit-learn` which is then tested for accuracy using the AUC(area under the curve) method. The model is then pickled.
+The script `train.py` incorporates the tested model and creates a model from vectorized data using Linear Regression from `scikit-learn` which is then tested for accuracy using the AUC (area under the curve) method. The model is then pickled.
 
 The script `predict.py` uses Flask and gunicorn to serve the model on local host network to which `predict-test.py` sends a POST request using JSON serialized data to make the prediction to determine will the employee with specified characteristics churn or not.
 
