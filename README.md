@@ -53,35 +53,24 @@ git clone https://github.com/MortalWombat-repo/Employee-churn-prediction.git
 ```
 cd Employee-churn-prediction
 ```
-3. start venv
+3. build docker container
 ```
-python3 -m venv venv
-source venv/bin/activate
+docker build -t notebook .
 ```
-4. install packages from requirements.txt
+4. run the container with the exposed port(very important don't forget the p flag)
 ```
-pip install -r requirements.txt
+docker run -p 9696:9696 notebook
 ```
-5. run all notebooks
+5. open a new terminal tab and send a post request
 ```
-python run_notebooks.py
+docker run -p 9696:9696 notebook
 ```
-6. run train.py
+6. when done return to the window with the server and CTRL/Command + C to stop the server
+
+7. exit the directory and delete the project
 ```
-python train.py
-```
-7. run predict.py to start the server
-```
-python predict.py
-```
-8. run predict-test.py to send a POST request to the server
-```
-python predict-test.py
-```
-9. deactivate and delete the venv
-```
-deactivate
-rm -rf venv
+cd ..
+rm -rf Employee-churn-prediction
 ```
 
 # Demo
