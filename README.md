@@ -63,7 +63,7 @@ docker run -p 9696:9696 notebook
 ```
 5. open a new terminal tab and send a post request
 ```
-docker run -p 9696:9696 notebook
+python predict-test.py
 ```
 6. when done return to the window with the server and CTRL/Command + C to stop the server
 
