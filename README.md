@@ -30,7 +30,7 @@ Quote from the description page.
 
 # Description
 
-The data was first loaded into a Jupyter notebook `1. Data preparation and data cleaning` for data processing and cleanup. The data proved to be very clean. The most importan step of this stage was turning the target variable into a binary format from a string.
+The data was first loaded into a Jupyter notebook `1. Data preparation and data cleaning` for data processing and cleanup. The most important step of this stage was turning the target variable into a binary format from a string.
 Next step was running the notebook `2. EDA, feature importance analysis`. In this notebooks certain visualizations were made to get a feel for the data to be worked with as well as feature importance analysis in form of viewing the correlations of features with each other as well as seing if any particular feature stood out.
 Finally a notebook `3. Model selection process` is ran to test the dummy models before they are converted to a script in form of a `train.py`.
 
