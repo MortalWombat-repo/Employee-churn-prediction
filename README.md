@@ -57,11 +57,11 @@ cd Employee-churn-prediction
 ```
 3. build docker container
 ```
-docker build -t notebook .
+docker build -t employee_churn .
 ```
-4. run the container with the exposed port (very important don't forget the p flag)
+4. run the container with the exposed port (very important, don't forget the p flag)
 ```
-docker run -p 9696:9696 notebook
+docker run -p 9696:9696 employee_churn
 ```
 5. open a new terminal tab and send a post request
 ```
