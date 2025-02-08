@@ -1,6 +1,6 @@
 # Employee-churn-prediction
 
-This is a project as a part of [Machine learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
+This is the 1st capstone project of [Machine learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) course.
 
 # About the data
 
