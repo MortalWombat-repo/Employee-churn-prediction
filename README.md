@@ -81,3 +81,9 @@ rm -rf Employee-churn-prediction
 
 ![Demonstration](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1aHEzYnhta2dlMzFzY3ludnE5d241NmJ2b3d4anJkZWNlbnI2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHRlTAVDFwiN516Xn2/giphy.gif)
 
+# Streamlit demo
+
+[Video Link](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl4NTh2b2pqY2xoZHBmNWthb3p4Y3BobzVyY2IwcGxwMHh2OTdrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pQQBlSNDMld3NvB8D9/giphy.gif)
+
+![Demonstration](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl4NTh2b2pqY2xoZHBmNWthb3p4Y3BobzVyY2IwcGxwMHh2OTdrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pQQBlSNDMld3NvB8D9/giphy.gif)
+
