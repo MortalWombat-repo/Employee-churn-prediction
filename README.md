@@ -1,3 +1,5 @@
+![Languages](https://img.shields.io/github/languages/top/MortalWombat-repo/Employee-churn-prediction)
+
 # Employee-churn-prediction
 
 This is the 1st capstone project of [Machine learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) course.
