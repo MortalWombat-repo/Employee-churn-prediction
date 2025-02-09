@@ -1,4 +1,4 @@
-![Languages](https://img.shields.io/github/languages/top/MortalWombat-repo/Employee-churn-prediction)
+![Python](assets/images/python-logo.png)
 
 # Employee-churn-prediction
 
