@@ -77,9 +77,9 @@ rm -rf Employee-churn-prediction
 
 # Demo
 
-[Video Link](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1aHEzYnhta2dlMzFzY3ludnE5d241NmJ2b3d4anJkZWNlbnI2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHRlTAVDFwiN516Xn2/giphy.gif)
+[Video Link](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXczcHJvdGZiZWJzbjhjM3Jra2QxZnJtZW5hYmNuNGZoa3ozdnQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmL6t9WxciPkSApt4I/giphy.gif)
 
-![Demonstration](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZ1aHEzYnhta2dlMzFzY3ludnE5d241NmJ2b3d4anJkZWNlbnI2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qHRlTAVDFwiN516Xn2/giphy.gif)
+![Demonstration](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXczcHJvdGZiZWJzbjhjM3Jra2QxZnJtZW5hYmNuNGZoa3ozdnQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmL6t9WxciPkSApt4I/giphy.gif)
 
 # Streamlit demo
 
