@@ -44,7 +44,7 @@ The script `predict.py` uses Flask and gunicorn to serve the model on local host
 
 **Important!**
 
-This project was developed on WSL(Windows subsystem for Linux)
+This project was developed on WSL (Windows subsystem for Linux). <br>
 It is recommended if on Windows to install it using a [guide](https://www.howtogeek.com/744328/how-to-install-the-windows-subsystem-for-linux-on-windows-11/) or running it on UNIX/Linux environment.
 
 You will also need [Docker](https://www.docker.com/).
