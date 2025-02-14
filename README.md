@@ -1,7 +1,5 @@
 # Employee-churn-prediction
 
-This is the 1st capstone project of [Machine learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) course.
-
 # About the data
 
 The dataset is from Kaggle called [Employee Turnover](https://www.kaggle.com/datasets/marikastewart/employee-turnover)
