@@ -2,7 +2,7 @@
 
 # About the data
 
-The dataset is from Kaggle called [Employee Turnover](https://www.kaggle.com/datasets/marikastewart/employee-turnover)
+The dataset is from Kaggle called [Employee Turnover](https://www.kaggle.com/datasets/marikastewart/employee-turnover), which was cleaned and visualized.
 
 Quote from the description page.
 > This database is from a large US company (no name given for privacy reasons). The management department is worried about the relatively high turnover. They want to find ways to 
