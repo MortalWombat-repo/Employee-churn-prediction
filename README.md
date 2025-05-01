@@ -90,13 +90,13 @@ cd ..
 rm -rf Employee-churn-prediction
 ```
 
-# Demo
+# Terminal demo video
 
 [Video Link](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXczcHJvdGZiZWJzbjhjM3Jra2QxZnJtZW5hYmNuNGZoa3ozdnQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmL6t9WxciPkSApt4I/giphy.gif)
 
 ![Demonstration](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXczcHJvdGZiZWJzbjhjM3Jra2QxZnJtZW5hYmNuNGZoa3ozdnQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HmL6t9WxciPkSApt4I/giphy.gif)
 
-# Streamlit demo
+# Streamlit demo video
 
 [Video Link](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl4NTh2b2pqY2xoZHBmNWthb3p4Y3BobzVyY2IwcGxwMHh2OTdrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pQQBlSNDMld3NvB8D9/giphy.gif)
 
